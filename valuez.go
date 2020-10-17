@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/anssihalmeaho/fuvaluez"
+	"github.com/anssihalmeaho/fuvaluez/fuvaluez"
 
 	"github.com/anssihalmeaho/funl/funl"
 )
