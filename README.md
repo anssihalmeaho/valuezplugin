@@ -1,2 +1,2 @@
 # valuezplugin
-Plugin for FunL value store
+Plugin for [FunL](https://github.com/anssihalmeaho/funl) value store [ValueZ](https://github.com/anssihalmeaho/fuvaluez).
