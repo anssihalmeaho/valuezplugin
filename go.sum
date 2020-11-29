@@ -1,7 +1,12 @@
 github.com/anssihalmeaho/funl v0.0.0-20201006153242-89d44f35b7fd h1:B4sdxOy0uaaiGvC0mP5xXluynJTdCaVge0re4fSh+Cg=
 github.com/anssihalmeaho/funl v0.0.0-20201006153242-89d44f35b7fd/go.mod h1:CxdkogO1mxJmSy6xgenp7R5W23gKBdouhJh9xI2c31Q=
-github.com/anssihalmeaho/fuvaluez v0.0.0-20201017123448-7e0361e29e3c h1:7x1ZgRw+GGPhmndy6h6KbnCrx73JR05mYfu75LU8k20=
-github.com/anssihalmeaho/fuvaluez v0.0.0-20201017123448-7e0361e29e3c/go.mod h1:iKcKpdT/QjxMGV70CNbMKaA7fFY9LdT9wqv4yrSgLU0=
+github.com/anssihalmeaho/funl v0.0.0-20201127140357-4b42efe6d33b h1:VwcQq3LHmO8gS20T9V7ssW7ayeeRi/G4RnhwX0s9/oY=
+github.com/anssihalmeaho/funl v0.0.0-20201127140357-4b42efe6d33b/go.mod h1:CxdkogO1mxJmSy6xgenp7R5W23gKBdouhJh9xI2c31Q=
+github.com/anssihalmeaho/fuvaluez v0.0.0-20201024132836-112a5608aba1 h1:XbYZRBMZZaeTPMm/JUoxdfdn2gfpsmne9zAePYI/zgY=
+github.com/anssihalmeaho/fuvaluez v0.0.0-20201024132836-112a5608aba1/go.mod h1:iKcKpdT/QjxMGV70CNbMKaA7fFY9LdT9wqv4yrSgLU0=
+github.com/anssihalmeaho/fuvaluez v0.0.0-20201129142756-1350327538ab h1:VgZTtyPwhMryQiB/mVFTCaSan3HtwDUITi1U8UFoW3g=
+github.com/anssihalmeaho/fuvaluez v0.0.0-20201129142756-1350327538ab/go.mod h1:iKcKpdT/QjxMGV70CNbMKaA7fFY9LdT9wqv4yrSgLU0=
 go.etcd.io/bbolt v1.3.5 h1:XAzx9gjCb0Rxj7EoqcClPD1d5ZBxZJk0jbuoPHenBt0=
 go.etcd.io/bbolt v1.3.5/go.mod h1:G5EMThwa9y8QZGBClrRx5EY+Yw9kAhnjy3bSjsnlVTQ=
+golang.org/x/sys v0.0.0-20200202164722-d101bd2416d5 h1:LfCXLvNmTYH9kEmVgqbnsWfruoXZIrh4YBgqVHtDvw0=
 golang.org/x/sys v0.0.0-20200202164722-d101bd2416d5/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
